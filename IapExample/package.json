@@ -21,7 +21,7 @@
     "apsl-react-native-button": "^3.1.1",
     "react-native-gesture-handler": "git://github.com/hyochan/react-native-gesture-handler.git#package-names",
     "react-native-iap": "file:../",
-    "react-navigation": "^3.11.0"
+    "react-navigation": "^4.4.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
